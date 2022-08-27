@@ -1,0 +1,53 @@
+INFO:root:This is my very first log
+INFO:root:This is my very first log
+INFO:root:2
+INFO:root:This is my very first log
+INFO:root:[0, 1, 2, 3, 4, 5, 6, 7]
+INFO:root:This is my very first log
+INFO:root:[0, 1, 2, 3, 4, 5, 6, 7]
+INFO:root:This is my very first log
+INFO:root:[0, 1, 2, 3, 4, 5, 6, 7]
+INFO:root:This is my very first log
+WARNING:root:This will load all warning msg
+INFO:root:[0, 1, 2, 3, 4, 5, 6, 7]
+ERROR:root:This is the error msg if user won't found anything in list
+INFO:root:This is my very first log
+WARNING:root:This will load all warning msg
+INFO:root:[0, 1, 2, 3, 4, 5, 6, 7]
+ERROR:root:This is the error msg if user won't found anything in list
+INFO:root:This is my very first log
+WARNING:root:This will load all warning msg
+INFO:root:[0, 1, 2, 3, 4, 5, 6, 7]
+ERROR:root:This is the error msg if user won't found anything in list
+INFO:root:This is my very first log
+WARNING:root:This will load all warning msg
+INFO:root:[0, 1, 2, 3, 4, 5, 6, 7]
+ERROR:root:This is the error msg if user won't found anything in list
+INFO:root:This is my very first log
+WARNING:root:This will load all warning msg
+INFO:root:[0, 1, 2, 3, 4, 5, 6, 7]
+ERROR:root:This is the error msg if user won't found anything in list
+INFO:root:This is my very first log
+WARNING:root:This will load all warning msg
+INFO:root:[0, 1, 2, 3, 4, 5, 6, 7]
+ERROR:root:This is the error msg if user won't found anything in list
+INFO:root:This is my very first log
+WARNING:root:This will load all warning msg
+INFO:root:[0, 1, 2, 3, 4, 5, 6, 7]
+ERROR:root:This is the error msg if user won't found anything in list
+INFO:root:This is my very first log
+WARNING:root:This will load all warning msg
+INFO:root:[0, 1, 2, 3, 4, 5, 6, 7]
+ERROR:root:This is the error msg if user won't found anything in list
+INFO:root:This is my very first log
+WARNING:root:This will load all warning msg
+INFO:root:[0, 1, 2, 3, 4, 5, 6, 7]
+ERROR:root:This is the error msg if user won't found anything in list
+INFO:root:This is my very first log
+WARNING:root:This will load all warning msg
+INFO:root:[0, 1, 2, 3, 4, 5, 6, 7]
+ERROR:root:This is the error msg if user won't found anything in list
+INFO:root:This is my very first log
+WARNING:root:This will load all warning msg
+INFO:root:[0, 1, 2, 3, 4, 5, 6, 7]
+ERROR:root:This is the error msg if user won't found anything in list

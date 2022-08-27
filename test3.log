@@ -1,0 +1,44 @@
+2022-08-14 13:40:31,616 root INFO The Number entered by user is 3 and 6 
+2022-08-14 13:46:41,801 root INFO The Number entered by user is 3 and 6 
+2022-08-14 13:46:41,801 root INFO we are in try block 
+2022-08-14 13:46:41,801 root INFO we have succesfully  completed our division task. 
+2022-08-14 13:47:03,603 root INFO The Number entered by user is 3 and 6 
+2022-08-14 13:47:03,603 root INFO we are in try block 
+2022-08-14 13:47:03,603 root INFO we have succesfully  completed our division task. 
+2022-08-14 13:47:09,943 root INFO The Number entered by user is 4 and 6 
+2022-08-14 13:47:09,943 root INFO we are in try block 
+2022-08-14 13:47:09,943 root INFO we have succesfully  completed our division task. 
+2022-08-14 13:47:17,526 root INFO The Number entered by user is 4 and 5 
+2022-08-14 13:47:17,527 root INFO we are in try block 
+2022-08-14 13:47:17,527 root INFO we have succesfully  completed our division task. 
+2022-08-14 13:48:03,354 root INFO The Number entered by user is 4 and 5 
+2022-08-14 13:48:03,354 root INFO we are in try block 
+2022-08-14 13:48:03,354 root INFO we have succesfully  completed our division task. 
+2022-08-14 13:48:12,764 root INFO The Number entered by user is 44 and 5 
+2022-08-14 13:48:12,764 root INFO we are in try block 
+2022-08-14 13:48:12,764 root INFO we have succesfully  completed our division task. 
+2022-08-14 13:48:29,703 root INFO The Number entered by user is 44 and 0 
+2022-08-14 13:48:29,704 root INFO we are in try block 
+2022-08-14 13:48:29,704 root ERROR division by zero 
+Traceback (most recent call last):
+  File "D:/iNuron/Data Science/Python class/logging/test3.py", line 9, in devide
+    div = a/b
+ZeroDivisionError: division by zero
+2022-08-14 13:49:09,200 root INFO The Number entered by user is 44 and 0 
+2022-08-14 13:49:09,200 root INFO we are in try block 
+2022-08-14 13:49:09,200 root ERROR division by zero 
+Traceback (most recent call last):
+  File "D:/iNuron/Data Science/Python class/logging/test3.py", line 9, in devide
+    div = a/b
+ZeroDivisionError: division by zero
+2022-08-14 13:50:16,199 root INFO The Number entered by user is 44 and 0 
+2022-08-14 13:50:16,199 root INFO we are in try block 
+2022-08-14 13:50:16,199 root ERROR division by zero 
+Traceback (most recent call last):
+  File "D:/iNuron/Data Science/Python class/logging/test3.py", line 9, in devide
+    div = a/b
+ZeroDivisionError: division by zero
+2022-08-14 13:50:26,738 root INFO The Number entered by user is 44 and 9 
+2022-08-14 13:50:26,738 root INFO we are in try block 
+2022-08-14 13:50:26,738 root INFO we have succesfully  completed our division task. 
+2022-08-14 13:50:26,738 root INFO The result of code is 4.888888888888889 

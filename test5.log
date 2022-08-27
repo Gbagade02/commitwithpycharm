@@ -1,0 +1,16 @@
+2022-08-14 14:03:48,458 root INFO I am trying to read a file 
+2022-08-14 14:03:48,458 root CRITICAL This is the situation for us 
+2022-08-14 14:03:48,458 root ERROR [Errno 2] No such file or directory: 'gaurav.txt' 
+2022-08-14 14:03:48,458 root ERROR [Errno 2] No such file or directory: 'gaurav.txt' 
+Traceback (most recent call last):
+  File "D:/iNuron/Data Science/Python class/logging/test4.py", line 15, in <module>
+    with open("gaurav.txt", 'r'):
+FileNotFoundError: [Errno 2] No such file or directory: 'gaurav.txt'
+2022-08-14 18:02:04,841 root INFO I am trying to read a file 
+2022-08-14 18:02:04,841 root CRITICAL This is the situation for us 
+2022-08-14 18:02:04,842 root ERROR [Errno 2] No such file or directory: 'gaurav.txt' 
+2022-08-14 18:02:04,844 root ERROR [Errno 2] No such file or directory: 'gaurav.txt' 
+Traceback (most recent call last):
+  File "D:/iNuron/Data Science/Python class/logging/test4.py", line 15, in <module>
+    with open("gaurav.txt", 'r'):
+FileNotFoundError: [Errno 2] No such file or directory: 'gaurav.txt'
